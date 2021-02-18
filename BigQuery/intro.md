@@ -16,7 +16,7 @@ the data stored and the bytes of data that are processing
 5. foundation for BI and AI
 
 #### Architecture Example
-![Exampe](arch.jpg)
+![Exampe](https://github.com/shi1412/gcp-pipeline/blob/main/BigQuery/arch.JPG)
 
 #### BigQuery: Fast SQL Engine
 1. BigQuery contains two things: 
